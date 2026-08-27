@@ -24,11 +24,13 @@ to support better business decisions.
 
 ## Tools Used
 
-Excel -> Initial inspection
-Python -> Cleaning & EDA
-SQL Server -> Business analysis
-Power BI -> Dashboard
-GitHub -> Documentation
+| Tools | Usage |
+|------|------|
+| Excel | Initial inspection |
+| Python | Cleaning & EDA |
+| SQL Server | Business analysis |
+| Power BI | Dashboard |
+| Github | Documentation |
 
 ## Workflow
 
