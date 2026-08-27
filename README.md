@@ -6,7 +6,7 @@ This project demonstrates a complete analytics workflow from data validation and
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/power_bi_full_dashboard.png)
+![Retail Sales Dashboard](screenshots/powerbi/power-bi-full-dashboard.png)
 
 ## Business Problem
 
