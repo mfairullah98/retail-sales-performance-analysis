@@ -82,6 +82,11 @@ retail-sales-performance-analysis/
 └── README.md
 ```
 
+![](screenshots/powerbi/power_bi_full_dashboard.PNG)
+![](screenshots/python/python_monthly_sales_trend.PNG)
+![](screenshots/sql/sql_category_analysis.PNG)
+![](screenshots/excel/excel_category_analysis.PNG)
+
 05_Screenshots/
 power_bi_full_dashboard.png
 python_analysis.png
