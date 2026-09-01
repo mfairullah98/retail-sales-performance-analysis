@@ -6,7 +6,7 @@ This project demonstrates a complete analytics workflow from data validation and
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](screenshots/powerbi/power-bi-full-dashboard.png)
+![Retail Sales Dashboard](screenshots/powerbi/power_bi_full_dashboard.PNG)
 
 ## Business Problem
 
@@ -82,13 +82,15 @@ retail-sales-performance-analysis/
 └── README.md
 ```
 
-![](screenshots/powerbi/power_bi_full_dashboard.PNG)
-![](screenshots/python/python_monthly_sales_trend.PNG)
-![](screenshots/sql/sql_category_analysis.PNG)
-![](screenshots/excel/excel_category_analysis.PNG)
+#### Filtered Category Dashboard Preview
+![](screenshots/powerbi/power_bi_filtered_category_dashboard.PNG)
 
-05_Screenshots/
-power_bi_full_dashboard.png
-python_analysis.png
-sql_analysis.png
-excel_analysis.png
+#### Monthly Sales Trend Python Preview
+![](screenshots/python/python_monthly_sales_trend.PNG)
+
+#### SQL Category Analysis Preview
+![](screenshots/sql/sql_category_analysis.PNG)
+
+#### Excel Data Quality Process Preview
+![](screenshots/excel/excel_data_quality.PNG)
+
